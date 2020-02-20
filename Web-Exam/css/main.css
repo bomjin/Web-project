@@ -1,0 +1,115 @@
+/* COMMON 공통 */
+
+.body__container {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 300px;
+    color: #FFFFFF;
+    margin: 0 30px ;
+    background-color: black;
+
+
+}
+
+
+/* SECTION & INNER */
+.section {
+    position: relative;
+}
+
+.section .inner {
+    max-width: 980px;
+    margin: 0 auto;
+     /* 가운데 정렬 >> 가로사이즈가 정의 */
+   box-sizing: border-box;
+   position: relative;
+ 
+ }
+ 
+/* btn */
+.btn {
+    background-color: #4234F8;
+    height: 34px;
+    border: 1px solid #d5d6d5;
+    border-radius: 4px;
+    align-items: center;
+    font-size: 14px;
+    font-weight : 500;
+    line-height: 1.5;
+    cursor: pointer;
+    display : flex;
+    box-sizing: border-box;
+    position: relative;
+    color:#FFFFFF;
+    padding: 25px;
+}
+/* HEADER */
+
+header {
+     
+    
+    
+}
+
+header .inner {
+      
+      height: 78px;
+   
+
+}
+header .image {
+    background-image: url("../images/hero-bg-top.svg");
+    float: right;
+   
+}
+
+header .logo {
+    /* margin-right: 10px;
+    margin-top: 10px; */
+}
+
+header .logo a {
+    background: url(../images/logo.svg);
+    width: 32px;
+    height: 32px;
+    display: block;
+    text-indent: -9999px;
+}
+
+
+ /* VISUAL */
+
+ .section--visual {
+
+ }
+
+.section--summary {
+
+}
+.section--visual .inner {
+  padding:15px 140px;
+    /* display: flex; */
+}
+.section--visual .summary__title {
+    font-size: 40px;
+    text-align: center;
+    line-height: 48px;
+    
+    
+}
+.section--visual .summary__description {
+    font-size: 20px;
+    text-align: center;
+    line-height: 48px;
+}
+
+#sign-form [type="submit"] {
+    width: 100px;
+    height: 52px;
+    padding: 0 30PX;
+    font-size: 20PX;
+    justify-content: center;
+    
+  }
+
+
