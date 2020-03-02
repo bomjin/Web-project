@@ -1,50 +1,17 @@
-## 02/20
-### 적응형 홈페이지 만들기 
- 1. header 부분 작성
- 2. section 작업 완성도 70%
 
- ## 02/22
+## MDN css 공부
 
-### 적응형 홈페이지 만들기  
-1. FEATURE 작업 
-
-
- ## 02/23
-
-### css flex 강의 or Tip
-inline은 텍스트에 특출 나있다.
-
-display : flex >> block 요소처럼 쌓인다
-display : inline-flex >> 한 줄로 쌓인다.
-
- ## 02/26
-
- ### css 강의
-
-order item의 순서를 설정한다.
-item에 숫자를 지정하고 숫자가 클수록 순서가 밀립니다.
-음수가 허용
-
-flex-grow > 아이템의 증가 너비를 지정
-
-flex : 증가너비 감소너비 기본너비;
-
-### Grid
-display : grid;
-
-grid-template-rows : repeat(4, 100px);
-grid-template-columns : repeat(3, ifr);
-
-repeat을 사용하면 반복 가능 ;;
-
-Grid-template-areas
-
-row-gap
-
-행과 행 사이의 간격을 지정
-
-column-gap, gap
-
-grid-auto-flow
-
-
+### 03/02
+## css 첫 단계
+1. CSS 첫단계 개요
+2. CSS란 무엇입니까?
+3. CSS 시작하기
+4. CSS의 구조
+5. CSS의 작동 방식
+6. 새로운 지식 사용
+## CSS 빌딩 블록
+1. CSS 빌딩 블록 개요
+2. 캐스케이드와 상속
+3. CSS 선택기
+4. 박스 모델
+5. 배경과 테두리
