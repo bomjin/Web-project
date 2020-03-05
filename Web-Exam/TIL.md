@@ -49,6 +49,32 @@
 ### 03/04
 
 ## css 스타일링 텍스트 
+1. 스타일링 텍스트 개요
+    1. 기본 텍스트 및 글꼴 스타일
+    2. 스타일링리스트
+    3. 스타일링 링크
+    4. 웹 글꼴
+    5. 평가- 커뮤니티 스쿨 홈페이지 조판
+
+### 03/05
+
+## css 레이아웃
+1. css 레이아웃 개요
+2. css 레이아웃 소개
+3. 정상적인 흐름(inline vs block)
+4. 플렉스 박스
+ 1. display : flex;
+ 2. flex-direction : column; 
+ 3. flex-wrap : wrap;
+
+
+## css 미니게임
+https://flukeout.github.io/ 사이트 공부
+
+
+
+
+
     
     
 
